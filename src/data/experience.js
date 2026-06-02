@@ -2,7 +2,7 @@ export const experience = [
   {
     company: "NPTEL",
     role: "Full Stack Developer Intern",
-    duration: "Jan 2023 - March 2023",
+    duration: "Jan 2026 - March 2026",
     responsibilities: [
       "Collaborated in a group project to build a full-stack Notes App with secure authentication and CRUD functionality.",
       "Developed responsive frontend interfaces using React and Tailwind CSS for seamless note management.",
