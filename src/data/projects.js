@@ -1,5 +1,15 @@
 export const projects = [
   {
+  title: "LeetLens",
+  description: "An AI-powered LeetCode analytics platform that compares profiles, tracks progress, and generates intelligent insights using real-time data and LLM-based analysis.",
+  techStack: ["React", "Node.js", "Express", "MongoDB", "Redis", "OpenRouter", "Tailwind"],
+  
+  github: "https://github.com/RishabhJha395/leetlens-backend",
+  liveDemo: "https://leetlens-ai.vercel.app/",
+  featured: true,
+  theme: "emerald"
+},
+  {
     title: "Animate UI",
     description: "A motion-first component playground with reusable animation primitives and polished dashboard interactions.",
     techStack: ["React", "Tailwind", "Framer Motion","Supabase"],
