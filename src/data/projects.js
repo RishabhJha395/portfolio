@@ -1,4 +1,24 @@
 export const projects = [
+    {
+    title: "CampusOS",
+    description: "A unified, full-stack digital campus management platform uniting students, faculty, and administration. Features include end-to-end encrypted chat, hostel management, a student marketplace, an emergency SOS system, and an integrated CampusMind AI assistant.",
+    techStack: ["React", "TypeScript", "Tailwind CSS", "Vite", "Supabase"],
+    github: "https://github.com/RishabhJha395/CampusOs",
+    liveDemo: "https://campusoperatingsystem.vercel.app/", 
+    featured: true,
+    theme: "indigo",
+    image: "/campusos.png" 
+  },
+    {
+    title: "CampusMind AI",
+    description: "An intelligent university chatbot powered by an automated RAG pipeline. It continuously crawls over 1,000 web pages and PDFs to instantly answer complex student queries.",
+    techStack: ["React", "FastAPI", "Qdrant", "Playwright", "Gemini"],
+    github: "https://github.com/RishabhJha395/CampusMind-AI",
+    liveDemo: "https://campus-mind-ai-plum.vercel.app/", 
+    featured: true,
+    theme: "blue",
+    image: "/campusmind.png" 
+  },
   {
   title: "LeetLens",
   description: "An AI-powered LeetCode analytics platform that compares profiles, tracks progress, and generates intelligent insights using real-time data and LLM-based analysis.",
@@ -7,7 +27,8 @@ export const projects = [
   github: "https://github.com/RishabhJha395/leetlens-backend",
   liveDemo: "https://leetlens-ai.vercel.app/",
   featured: true,
-  theme: "emerald"
+  theme: "emerald",
+  image: "/leetlens.png"
 },
   {
     title: "Animate UI",
@@ -16,7 +37,8 @@ export const projects = [
     github: "https://github.com/RishabhJha395/animate-ui",
     liveDemo: "https://animate-ui-tau.vercel.app/",
     featured: true,
-    theme: "violet"
+    theme: "violet",
+    image: "/animateui.png"
   },
   {
     title: "ChessGame",
