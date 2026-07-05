@@ -7,7 +7,7 @@ export const projects = [
     liveDemo: "https://campusoperatingsystem.vercel.app/", 
     featured: true,
     theme: "indigo",
-    image: "/campusos.png" 
+    image: "/campusos.png"
   },
     {
     title: "CampusMind AI",
@@ -17,7 +17,7 @@ export const projects = [
     liveDemo: "https://campus-mind-ai-plum.vercel.app/", 
     featured: true,
     theme: "blue",
-    image: "/campusmind.png" 
+    image: "/campusmind.png"
   },
   {
   title: "LeetLens",
