@@ -47,7 +47,7 @@ export default function Projects() {
               transition={{ delay: index * 0.05 }}
               whileHover={{ y: -5 }}
             >
-              <div className="h-44 overflow-hidden rounded-lg border border-white/10 bg-black/30 relative">
+              <div className="aspect-[3/2] overflow-hidden rounded-lg border border-white/10 bg-black/30 relative">
                 {project.image ? (
                   <img src={project.image} alt={project.title} className="h-full w-full object-cover transition-transform duration-500 hover:scale-105" />
                 ) : (
