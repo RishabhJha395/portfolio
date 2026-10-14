@@ -14,7 +14,7 @@ export const profile = {
   image: profileImage,
   tags: ["Full Stack Developer",'ML Developer', "Competitive Programmer", "Problem Solver"],
   stats: [
-    { value: "1200+", label: "DSA Problems Solved" },
+    { value: "1500+", label: "DSA Problems Solved" },
     { value: "9.35", label: "CGPA" },
     { value: "Knight@LeetCode", label: "Rating Badge" }
   ],
