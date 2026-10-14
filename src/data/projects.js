@@ -30,6 +30,15 @@ export const projects = [
   theme: "emerald",
   image: "/leetlens.png"
 },
+{
+    title: "High-Performance Compute Engine",
+    description: "A C++ matrix multiplication engine optimized for CPU cache locality and memory access patterns, achieving an 8x speedup by eliminating L1/L2 cache misses.",
+    techStack: ["C++", "CPU Architecture", "Performance Profiling", "Memory Optimization", "Makefile"],
+    github: "https://github.com/RishabhJha395/high-performance-compute-engine",
+    liveDemo: "", 
+    featured: true,
+    theme: "terminal"
+  },
   {
     title: "Animate UI",
     description: "A motion-first component playground with reusable animation primitives and polished dashboard interactions.",

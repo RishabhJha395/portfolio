@@ -15,7 +15,7 @@ export const profile = {
   tags: ["Full Stack Developer",'ML Developer', "Competitive Programmer", "Problem Solver"],
   stats: [
     { value: "1200+", label: "DSA Problems Solved" },
-    { value: "9.328", label: "CGPA" },
+    { value: "9.35", label: "CGPA" },
     { value: "Knight@LeetCode", label: "Rating Badge" }
   ],
   socialLinks: [
@@ -27,7 +27,7 @@ export const profile = {
     { label: "Codolio", href: "https://codolio.com/profile/jhaRiss", icon: FaCode }
   ],
   education: [
-    { school: "DTU", detail: "B.Tech, Computer Science Engineering", year: "2023 - 2027",score:"9.328" },
+    { school: "DTU", detail: "B.Tech, Computer Science Engineering", year: "2023 - 2027",score:"9.35" },
     { school: "Sarvodaya Vidyalaya", detail: "Senior Secondary(12th)", year: "2021 - 2023" ,score:"94.8%"},
     { school: "Apeejay School", detail: "Secondary Education(10th)", year: "2015-2021",score:"96.6%" }
   ]
